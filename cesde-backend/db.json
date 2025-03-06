@@ -1,0 +1,21 @@
+{
+  "cursos": [
+    {
+      "id": 1,
+      "nombre": "JavaScript Avanzado",
+      "descripcion": "Curso de JS",
+      "duracion": 6,
+      "precio": 150,
+      "fechaInicio": "2025-03-01",
+      "docenteId": 1
+    }
+  ],
+  "docentes": [
+    {
+      "id": 1,
+      "nombre": "Juan Pérez",
+      "documento": "123456789",
+      "correo": "juan@example.com"
+    }
+  ]
+}
